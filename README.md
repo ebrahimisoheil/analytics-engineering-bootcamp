@@ -1,4 +1,4 @@
-# analytics-engineering-bootcamp
+# Analytics Engineering Bootcamp
 
 Topics I've learned in this bootcamp:
 
